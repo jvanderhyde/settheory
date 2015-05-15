@@ -1,0 +1,1 @@
+This is a library of Java classes useful for exploring the concepts of set theory and relations.
